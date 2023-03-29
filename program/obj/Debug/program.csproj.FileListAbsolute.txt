@@ -6,3 +6,11 @@ C:\Users\1\Desktop\program\obj\Debug\program.csproj.SuggestedBindingRedirects.ca
 C:\Users\1\Desktop\program\obj\Debug\program.csproj.CoreCompileInputs.cache
 C:\Users\1\Desktop\program\obj\Debug\program.exe
 C:\Users\1\Desktop\program\obj\Debug\program.pdb
+C:\Users\1\Downloads\provodnik-main\provodnik-main\program\bin\Debug\program.exe.config
+C:\Users\1\Downloads\provodnik-main\provodnik-main\program\bin\Debug\program.exe
+C:\Users\1\Downloads\provodnik-main\provodnik-main\program\bin\Debug\program.pdb
+C:\Users\1\Downloads\provodnik-main\provodnik-main\program\obj\Debug\program.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\provodnik-main\provodnik-main\program\obj\Debug\program.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Downloads\provodnik-main\provodnik-main\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\provodnik-main\provodnik-main\program\obj\Debug\program.exe
+C:\Users\1\Downloads\provodnik-main\provodnik-main\program\obj\Debug\program.pdb

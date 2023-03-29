@@ -25,5 +25,10 @@ namespace My_Norton
                 Directory.CreateDirectory(st);
             }
         }
+
+        public static string Quit() 
+        {
+            return ("GGWP");
+        }
     }
 }
